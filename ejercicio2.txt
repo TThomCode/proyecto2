@@ -1,0 +1,11 @@
+Crear una rama que se llame feature/desafio-java-1
+
+El objetivo es trabajar la sintaxis de java, if/else y funciones, con validacion sobre fechas:
+
+1- ingresar una fecha por teclado: DD/MM/YYYY (dd int, mm int, yyyy int)
+   validar que dd => 1 && <= 31 teniendo en cuenta el mes
+   validar que mm => 1 && <= 12
+   validar que yy => 1900 && <= 2099
+
+
+Nota: ojo, si el año es bisiesto, febrero tiene 29 dias, informar por consola si la fecha es correcta
